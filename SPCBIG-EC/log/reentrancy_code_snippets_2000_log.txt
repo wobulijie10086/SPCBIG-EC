@@ -1,0 +1,18 @@
+df: reentrancy_code_snippets_2000
+test loss:0.0022763800031195083
+test accuracy:1.0
+False positive rate(FP): 0.0
+False negative rate(FN): 0.0
+Recall: 1.0
+Precision: 1.0
+F1 score: 1.0
+-------------------------------
+df: reentrancy_code_snippets_2000
+test loss:0.2969147466477894
+test accuracy:0.9619047664460681
+False positive rate(FP): 0.0761904761904762
+False negative rate(FN): 0.0
+Recall: 1.0
+Precision: 0.9292035398230089
+F1 score: 0.9633027522935781
+-------------------------------

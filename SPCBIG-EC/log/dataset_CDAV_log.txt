@@ -1,0 +1,45 @@
+df: dataset_CDAV
+test loss:0.4474629198295483
+test accuracy:0.8442028994145601
+False positive rate(FP): 0.14855072463768115
+False negative rate(FN): 0.16304347826086957
+Recall: 0.8369565217391305
+Precision: 0.8492647058823529
+F1 score: 0.843065693430657
+-------------------------------
+df: dataset_CDAV
+test loss:0.34982635577519733
+test accuracy:0.8840579718783281
+False positive rate(FP): 0.13768115942028986
+False negative rate(FN): 0.09420289855072464
+Recall: 0.9057971014492754
+Precision: 0.8680555555555556
+F1 score: 0.8865248226950354
+-------------------------------
+df: dataset_CDAV
+test loss:0.34130549258080084
+test accuracy:0.8822463768115942
+False positive rate(FP): 0.12681159420289856
+False negative rate(FN): 0.10869565217391304
+Recall: 0.8913043478260869
+Precision: 0.8754448398576512
+F1 score: 0.8833034111310591
+-------------------------------
+df: dataset_CDAV
+test loss:0.2977777011152627
+test accuracy:0.8949275370957195
+False positive rate(FP): 0.07246376811594203
+False negative rate(FN): 0.13768115942028986
+Recall: 0.8623188405797102
+Precision: 0.9224806201550387
+F1 score: 0.8913857677902621
+-------------------------------
+df: dataset_CDAV
+test loss:0.3897940589897875
+test accuracy:0.8659420272578364
+False positive rate(FP): 0.12318840579710146
+False negative rate(FN): 0.14492753623188406
+Recall: 0.855072463768116
+Precision: 0.8740740740740741
+F1 score: 0.8644688644688645
+-------------------------------

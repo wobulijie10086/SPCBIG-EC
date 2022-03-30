@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/data" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/evaluations" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/evaluations/reentrancy" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/models" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/log" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/contrast" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/contrast/infinite" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/contrast/reentrancy" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/contrast/timestamp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/evaluations/infinite" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/evaluations/timestamp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Draw" isTestSource="false" />
+    </content>
+    <orderEntry type="jdk" jdkName="Python 3.6" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
